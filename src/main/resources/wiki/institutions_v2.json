@@ -17873,43 +17873,47 @@
                 "upload": false
             },
             "Bowling Green State University": {
-                "Wikidata": "",
+                "Wikidata": "Q895457",
                 "upload": false
             },
             "Bowling Green State University Libraries": {
-                "Wikidata": "",
+                "Wikidata": "Q7894803",
                 "upload": false
             },
             "Case Western Reserve University": {
-                "Wikidata": "",
+                "Wikidata": "Q1047060",
                 "upload": false
             },
             "Cincinnati and Hamilton County Public Library": {
-                "Wikidata": "",
+                "Wikidata": "Q5492644",
                 "upload": false
             },
             "Cleveland Museum of Art Archives": {
-                "Wikidata": "",
+                "Wikidata": "Q657415",
                 "upload": false
             },
             "Cleveland Public Library": {
-                "Wikidata": "Q69487402",
+                "Wikidata": "Q5132215",
                 "upload": true
             },
             "Cleveland State University": {
-                "Wikidata": "",
+                "Wikidata": "Q1100801",
+                "upload": false
+            },
+            "Columbus City Schools": {
+                "Wikidata": "Q5150021",
                 "upload": false
             },
             "Columbus Metropolitan Library": {
-                "Wikidata": "Q69487420",
+                "Wikidata": "Q5150078",
                 "upload": false
             },
             "Dayton Metro Library": {
-                "Wikidata": "Q69487438",
+                "Wikidata": "Q5243554",
                 "upload": false
             },
             "Delaware County Memory": {
-                "Wikidata": "",
+                "Wikidata": "Q5243554",
                 "upload": false
             },
             "Denison University": {
@@ -17917,7 +17921,7 @@
                 "upload": false
             },
             "Kent Historical Society and Museum Digital Collection": {
-                "Wikidata": "",
+                "Wikidata": "Q118726937",
                 "upload": false
             },
             "Kent State University": {
@@ -17929,19 +17933,23 @@
                 "upload": false
             },
             "King Arts Complex": {
-                "Wikidata": "",
+                "Wikidata": "Q43160596",
                 "upload": false
             },
             "Madison Public Library": {
-                "Wikidata": "",
+                "Wikidata": "Q69487620",
                 "upload": false
             },
             "Mansfield / Richland County Public Library": {
-                "Wikidata": "",
+                "Wikidata": "Q69487625",
                 "upload": false
             },
             "Marietta College": {
-                "Wikidata": "",
+                "Wikidata": "Q6763222",
+                "upload": false
+            },
+            "Marysville Public Library": {
+                "Wikidata": "Q69487635",
                 "upload": false
             },
             "MidPointe Library System": {
@@ -17957,7 +17965,7 @@
                 "upload": true
             },
             "Ohio Wesleyan University": {
-                "Wikidata": "",
+                "Wikidata": "Q194266",
                 "upload": false
             },
             "Pontifical College Josephinum": {
@@ -17973,11 +17981,15 @@
                 "upload": true
             },
             "The College of Wooster Special Collections": {
-                "Wikidata": "",
+                "Wikidata": "Q1109093",
+                "upload": false
+            },
+            "The University of Akron": {
+                "Wikidata": "Q1346135",
                 "upload": false
             },
             "Tiffin-Seneca Public Library": {
-                "Wikidata": "",
+                "Wikidata": "Q69961985",
                 "upload": false
             },
             "Toledo Lucas County Public Library": {
@@ -17989,7 +18001,7 @@
                 "upload": false
             },
             "Wilmington College": {
-                "Wikidata": "",
+                "Wikidata": "Q8022753",
                 "upload": false
             },
             "Worthington Libraries": {
@@ -17997,11 +18009,11 @@
                 "upload": false
             },
             "Wright State University": {
-                "Wikidata": "",
+                "Wikidata": "Q2002085",
                 "upload": false
             },
             "Xavier University Library, Cincinnati, Ohio": {
-                "Wikidata": "",
+                "Wikidata": "Q1849843",
                 "upload": false
             }
         },
